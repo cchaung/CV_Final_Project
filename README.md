@@ -64,6 +64,14 @@
 
 ![](https://i.imgur.com/SenbeJS.png)
 
+### Threshold v.s. KMeans
+* We can find that the use of KMeans can better connect the relationship between people and shadows to generate masks.
+* Eliminate the effects of background.
+* The people behind the original were kept.
+
+![](https://i.imgur.com/uBtLXaZ.png)
+
+
 
 
 ## Combine Mask
