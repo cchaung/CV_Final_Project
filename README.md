@@ -6,19 +6,25 @@
 * **數據所 310554031 葉詠富**
 * **數據所 310554037 黃乾哲**
 
+
+## Workflow
+
+![](https://i.imgur.com/gcJarFW.png)
+
+
+
 ## Mask R-CNN
 * We use the Mask RCNN to select the object.
 * The training data is “PennFudanPed” which is containing images that are used for pedestrian detection in the experiments reported in.
+
+![](https://i.imgur.com/Vw51gv9.png)
+
 * Since our background is sample, the human contour is clear. 
 * We do the threshold to strengthen the the curve of the mask
 
 ![](https://i.imgur.com/B0tUpZM.png)
 
  
-
-
-
-
 
 
 
